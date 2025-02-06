@@ -1,0 +1,1 @@
+Simple Arthitmetic Operations Of (addition, subtraction, multiplication, division, and modulo) With Hard Coded Operands.
